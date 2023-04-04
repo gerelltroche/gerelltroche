@@ -1,11 +1,13 @@
 <h1 align="center">T. Gerell Troche</h1>
-<h3 align="center">Full-Stack Engineer trying to Unravel the Mysteries of AI</h3>
+<h3 align="center">Full-Stack Engineer & AI Enthusiast | React Specialist</h3>
 
-- 🌱 Currently researching **how to use LLMs in high-risk domains safely.**
+ 🌱 Currently researching **how to use LLMs in high-risk domains safely.**
 
-- 📫 How to reach me **gerelltroche@gmail.com**
+ 📫 Reach me at **gerelltroche@gmail.com**
 
-- 📝 I write articles on [https://dev.to/gerelltroche](https://dev.to/gerelltroche)
+ 🛠️ Preferred Stack: MERN (MySQL, Express, React, Node.js)
+
+ 📝 I write articles on [https://dev.to/gerelltroche](https://dev.to/gerelltroche)
 
 ### Recent posts
 <!-- BLOG-POST-LIST:START -->
