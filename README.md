@@ -9,6 +9,7 @@
 
 ### Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking The Power of Conversational AI: A Look at GPT-4 in Azure HealthBot](https://dev.to/gerelltroche/the-power-of-conversational-ai-a-look-at-gpt-4-in-azure-healthbot-2ffe)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
