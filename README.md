@@ -11,6 +11,7 @@
 
 ### Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Mind Your Metrics: How to use Telemetry to Make Your Chatbot More Effective in Azure HealthBot](https://dev.to/gerelltroche/mind-your-metrics-how-to-use-telemetry-to-make-your-chatbot-more-effective-in-azure-healthbot-46nb)
 - [Unlocking The Power of Conversational AI: A Look at GPT-4 in Azure HealthBot](https://dev.to/gerelltroche/the-power-of-conversational-ai-a-look-at-gpt-4-in-azure-healthbot-2ffe)
 <!-- BLOG-POST-LIST:END -->
 
